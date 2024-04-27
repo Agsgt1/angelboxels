@@ -1,8 +1,4 @@
 /*
-
-Food Food Food! Adds more food to Sandboxels.
-Created by sugima.
-
 Sandboxels Plus v1
 
 Changelog - 1/25/24 - v1
